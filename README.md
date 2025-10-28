@@ -1,7 +1,5 @@
 # Waka Payments
 
-<div align="center">
-
 We are a modern, secure, and efficient payment processing solution designed to seamlessly handle digital transactions. Our platform enables businesses to accept payments globally while providing a smooth experience for both merchants and customers.
 
 ## 🚀 Key Features

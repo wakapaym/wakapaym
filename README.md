@@ -2,14 +2,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
-</div>
-
-## 🌟 Overview
-
-Waka Payments is a modern, secure, and efficient payment processing solution designed to seamlessly handle digital transactions. Our platform enables businesses to accept payments globally while providing a smooth experience for both merchants and customers.
+We are a modern, secure, and efficient payment processing solution designed to seamlessly handle digital transactions. Our platform enables businesses to accept payments globally while providing a smooth experience for both merchants and customers.
 
 ## 🚀 Key Features
 
